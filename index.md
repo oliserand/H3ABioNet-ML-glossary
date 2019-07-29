@@ -1,8 +1,8 @@
 ---
 title: ""
-keywords: H3ABioNet, SOPs, NATF
+keywords: H3ABioNet, Machine Learning, Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering, Dimensionality Reduction
 tags: [formating]
-last_updated: August 15, 2018
+last_updated: July 29, 2019
 author_profile: true
 authors: default_author
 hide_sidebar: true
@@ -13,8 +13,7 @@ permalink: index.html
 
 [![H3ABioNet logo](assets/images/LOGO-HEADER.jpg "H3ABioNet logo")](https://h3abionet.org)
 
-This website hosts the Standard Operating Procedures (SOPs) for common data analysis tasks within the [H3ABioNet](https://h3abionet.org/) consortium, which are:
-
+This website aims to provide information about machine learning terms glossary within the [H3ABioNet](https://h3abionet.org/) consortium, by introducing the ML jargon and explaining it using very simple terms and including examples from the bimoedical research field. We believe this Glossary will help folks from non computing background get familiar with ML terms and methods in order to enhance the use of ML to answer biological questions. 
 
 * [Human Variant calling]({{ site.baseurl}}{% link pages/genomics_analysis/Variant-Calling/Variant-Calling-1-0.md %})
 * [Genome Wide Association Studies]({{ site.baseurl}}{% link pages/genomics_analysis/GWAS/GWAS.md %})
