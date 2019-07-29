@@ -1,1 +1,1 @@
-
+Regression is used to describe, or model, the relationship between the set of features in a dataset, and a continuous numerical response (output). In ML, regression is applied to predict a real value or a probability. Some examples include simple and multiple linear regression – fitting a line to the data, ridge regression, Lasso, nearest neighbours and Kernel regression.
