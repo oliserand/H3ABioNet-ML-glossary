@@ -17,10 +17,6 @@ This website aims to provide information about machine learning terms glossary w
 
 Biologists no longer rely on traditional laboratories to discover novel biomarkers for a given disease, but make use of the continuously growing genomic datasets that are publicly available to determine the biomarkers. Technologies for capturing data in biology are becoming cheaper and more effective, and this has given rise to a new era of big data in bioinformatics.
 
-The machine learning (ML) approach aims at designing/programming machines/computers that can learn like a human; that is, learn from experience and discover information from the available data, but are capable of working with much larger data sets and learning at a significantly accelerated rate. The computers are programmed to optimize performance criteria by using example data or past experience. The optimized criterion can be the accuracy provided by a predictive model — in a modelling problem — or the value of a fitness or evaluation function — in an optimization problem.
-
-This approach is applicable to bioinformatics because the subjects are highly complex biological systems. Additionally, molecular biology that depends on a lot on experimental data can be adapted for machine learning approaches. In fact, one of the earliest application areas in machine learning was molecular biology: Stormo and his colleagues used the perceptron algorithm to locate the initial translation sites in E. coli. (Stormo et. al. 1982).
-
 <meta charset="UTF-8">
 <style>
 
