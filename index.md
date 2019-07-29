@@ -19,7 +19,7 @@ This website aims to provide information about machine learning terms glossary w
 * [Genome Wide Association Studies]({{ site.baseurl}}{% link pages/genomics_analysis/GWAS/GWAS.md %})
 * [Gene expression analysis using RNA-Seq]({{ site.baseurl}}{% link pages/genomics_analysis/RNA-Seq/RNA-Seq-1-0.md %})
 * [16s microbiome analysis]({{ site.baseurl}}{% link  pages/genomics_analysis/16s-rRNA/16s-rRNA-1-0.md %})
-* [Introduction to Machine Learning] ({{ site.baseurl}}{% link  pages/genomics_analysis/16s-rRNA/introduction_to_ml.md %})
+* [Introduction to Machine Learning]({{ site.baseurl}}{% link  pages/genomics_analysis/16s-rRNA/introduction_to_ml.md %})
 
 These SOPs were meant to help various H3ABioNet nodes in their accreditation exercises [^1], as per [this protocol]({{ site.baseurl }}/assets/Assessment_protocol.pdf ).
 
