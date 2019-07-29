@@ -8,7 +8,8 @@ sidebar: machine_learning_sidebar
 permalink: intro_to_ml.html
 folder: 
 author_profile: true
-authors:Shakun_Baichoo
+authors:
+ - Shakun_Baichoo
 ---
 The machine learning (ML) approach aims at designing/programming machines/computers that can learn like a human; that is, learn from experience and discover information from the available data, but are capable of working with much larger data sets and learning at a significantly accelerated rate. The computers are programmed to optimize performance criteria by using example data or past experience. The optimized criterion can be the accuracy provided by a predictive model — in a modelling problem — or the value of a fitness or evaluation function — in an optimization problem.
 
