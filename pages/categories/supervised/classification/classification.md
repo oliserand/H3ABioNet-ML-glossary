@@ -6,7 +6,7 @@ last_updated: July 29, 2019
 toc: false
 sidebar: supervised_learning_classification
 permalink: supervised_learning_classification.html
-folder: categories/supervised/classification
+folder: categories/supervised/classification/
 author_profile: true
 authors:
  - ShakunBaichoo
