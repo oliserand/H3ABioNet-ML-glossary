@@ -21,7 +21,7 @@ The machine learning (ML) approach aims at designing/programming machines/comput
 
 This approach is applicable to bioinformatics because the subjects are highly complex biological systems. Additionally, molecular biology that depends on a lot on experimental data can be adapted for machine learning approaches. In fact, one of the earliest application areas in machine learning was molecular biology: Stormo and his colleagues used the perceptron algorithm to locate the initial translation sites in E. coli. (Stormo et. al. 1982).
 
-
+<meta charset="UTF-8">
 <style>
 
 .node circle {
@@ -42,7 +42,9 @@ This approach is applicable to bioinformatics because the subjects are highly co
 
 </style>
 
+<body>
 
+<!-- load the d3.js library -->	
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -69,7 +71,7 @@ var margin = {top: 20, right: 90, bottom: 30, left: 90},
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-var svg = d3.select("#diagram").append("svg")
+var svg = d3.select("body").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -244,9 +246,7 @@ function update(source) {
 }
 
 </script>
-
-<div id="diagram"></div>
-
+</body>
 
 
 * [Human Variant calling]({{ site.baseurl}}{% link pages/genomics_analysis/Variant-Calling/Variant-Calling-1-0.md %})
