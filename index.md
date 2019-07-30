@@ -4,18 +4,19 @@ keywords: H3ABioNet, Machine Learning, Supervised Learning, Unsupervised Learnin
 tags: [formating]
 last_updated: July 29, 2019
 author_profile: true
-authors: default_author
+authors: Amel, Anmol & Shakun
 hide_sidebar: true
 toc: false
 permalink: index.html
 ---
 
 
-[![H3ABioNet logo](assets/images/LOGO-HEADER.jpg "H3ABioNet logo")](https://h3abionet.org)
 
 This website aims to provide information about machine learning terms glossary within the [H3ABioNet](https://h3abionet.org/) consortium, by introducing the ML jargon and explaining it using very simple terms and including examples from the bimoedical research field. We believe this Glossary will help folks from non computing background get familiar with ML terms and methods in order to enhance the use of ML to answer biological questions.
 
 Biologists no longer rely on traditional laboratories to discover novel biomarkers for a given disease, but make use of the continuously growing genomic datasets that are publicly available to determine the biomarkers. Technologies for capturing data in biology are becoming cheaper and more effective, and this has given rise to a new era of big data in bioinformatics. These large biological datasets can be effectively analysed using machine learning aproaches.
+
+[![H3ABioNet logo](assets/images/LOGO-HEADER.jpg "H3ABioNet logo")](https://h3abionet.org)
 
 <meta charset="UTF-8">
 <style>
