@@ -1,12 +1,12 @@
 ---
-title: Variant calling in human whole genome/exome sequencing data
-keywords: wgs, wes, ngs
-tags: [genomics_analysis]
-last_updated: Fall, 2018
+title: Supervised Learning
+keywords: machine learning, supervised learning, regression, classification
+tags: [Supervised Learning]
+last_updated: July 31, 2019
 
-sidebar: varcall_sidebar
+sidebar: supervised_sidebar
 toc: false
-permalink: Variant-Calling-1-0.html
+permalink: supervised_learning.html
 folder: genomics_analysis/Variant-Calling
 author_profile: true
 authors:
