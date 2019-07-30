@@ -60,8 +60,8 @@ var treeData =
   };
 
 // Set the dimensions and margins of the diagram
-var margin = {top: 20, right: 90, bottom: 30, left: 90},
-    width = 760 - margin.left - margin.right,
+var margin = {top: 20, right: 90, bottom: 30, left: 140},
+    width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
