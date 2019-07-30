@@ -55,10 +55,11 @@ var treeData =
           { "name": "Classification" }
         ]
       },
-      { "name": "Unsupervised Learning",
+      { 
+        "name": "Unsupervised Learning",
         "children": [
           { "name": "Clustering" },
-          { "name": "Dimensionality Reduction"  }
+          { "name": "Dimensionality Reduction" }
     ]
   };
 
