@@ -51,8 +51,8 @@ var treeData =
       { 
         "name": "Level 2: A",
         "children": [
-          { "name": "Son of A" },
-          { "name": "Daughter of A" }
+          { "name": "Supervised Learning" },
+          { "name": "Unsupervised Learning" }
         ]
       },
       { "name": "Level 2: B" }
@@ -61,8 +61,8 @@ var treeData =
 
 // Set the dimensions and margins of the diagram
 var margin = {top: 10, right: 90, bottom: 30, left: 190},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    width = 1160 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
