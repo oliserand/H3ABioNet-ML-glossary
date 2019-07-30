@@ -53,13 +53,14 @@ var treeData =
         "children": [
           { "name": "Regression" },
           { "name": "Classification" }
-        ]
+       ]
       },
       { 
         "name": "Unsupervised Learning",
         "children": [
           { "name": "Clustering" },
           { "name": "Dimensionality Reduction" }
+      ]
     ]
   };
 
