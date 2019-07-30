@@ -47,14 +47,14 @@ var treeData =
     "name": "machine learning",
     "children": [
       { 
-        "name": "Supervised Learning",
+        "name": "<a href="https://h3abionet.github.io/H3ABioNet-ML-glossary/Variant-Calling-1-0.html">Supervised Learning</a>",
         "children": [
           { "name": "Classification" },
           { "name": "Regression" }
         ]
       },
       { 
-        "name": "Unsupervised Learning",
+        "name": "<a href="https://h3abionet.github.io/H3ABioNet-ML-glossary/GWAS.html">Unsupervised Learning</a>",
         "children": [
           { "name": "Clustering" },
           { "name": "Dimensionality Reduction" }
