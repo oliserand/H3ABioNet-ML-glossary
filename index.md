@@ -65,7 +65,7 @@ var treeData =
   };
 
 // Set the dimensions and margins of the diagram
-var margin = {top: 10, right: 90, bottom: 30, left: 190},
+var margin = {top: 20, right: 20, bottom: 100, left: 190},
     width = 1160 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
