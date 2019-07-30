@@ -73,7 +73,7 @@ var margin = {top: 20, right: 20, bottom: 100, left: 190},
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
 var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.right + margin.left)
+    .attr("width", width + margin.right + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate("
