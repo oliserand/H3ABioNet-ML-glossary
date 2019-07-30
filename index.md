@@ -49,19 +49,22 @@ var treeData =
     "name": "machine learning",
     "children": [
       { 
-        "name": "Level 2: A",
+        "name": "Supervised Learning",
         "children": [
-          { "name": "Supervised Learning" },
-          { "name": "Unsupervised Learning" }
+          { "name": "Regression" },
+          { "name": "Classification" }
         ]
       },
-      { "name": "Level 2: B" }
+      { "name": "Unsupervised Learning",
+        "children": [
+          { "name": "Clustering" },
+          { "name": "Dimensionality Reduction"  }
     ]
   };
 
 // Set the dimensions and margins of the diagram
-var margin = {top: 10, right: 90, bottom: 30, left: 190},
-    width = 1160 - margin.left - margin.right,
+var margin = {top: 10, right: 90, bottom: 30, left: 290},
+    width = 1260 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
