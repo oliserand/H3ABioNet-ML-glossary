@@ -16,7 +16,6 @@ This website aims to provide information about machine learning terms glossary w
 
 Biologists no longer rely on traditional laboratories to discover novel biomarkers for a given disease, but make use of the continuously growing genomic datasets that are publicly available to determine the biomarkers. Technologies for capturing data in biology are becoming cheaper and more effective, and this has given rise to a new era of big data in bioinformatics. These large biological datasets can be effectively analysed using machine learning aproaches.
 
-<meta charset="UTF-8">
 <style>
 
 .node circle {
@@ -37,7 +36,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 
 </style>
 
-<body>
+<div id="graph"></div>
 
 <!-- load the d3.js library -->	
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -72,7 +71,7 @@ var margin = {top: 20, right: 20, bottom: 100, left: 190},
 // append the svg object to the body of the page
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#graph").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -247,7 +246,6 @@ function update(source) {
 }
 
 </script>
-</body>
 
 
 * [Introduction to Machine Learning]({{ site.baseurl}}{% link pages/introduction_to_ml.md %})
