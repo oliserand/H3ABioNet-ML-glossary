@@ -49,18 +49,13 @@ var treeData =
     "name": "machine learning",
     "children": [
       { 
-        "name": "Supervised Learning",
+        "name": "Level 2: A",
         "children": [
-          { "name": "Regression" },
-          { "name": "Classification" }
-       ]
+          { "name": "Son of A" },
+          { "name": "Daughter of A" }
+        ]
       },
-      { 
-        "name": "Unsupervised Learning",
-        "children": [
-          { "name": "Clustering" },
-          { "name": "Dimensionality Reduction" }
-      ]
+      { "name": "Level 2: B" }
     ]
   };
 
