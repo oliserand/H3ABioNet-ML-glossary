@@ -12,4 +12,4 @@ authors:
  - Shakun_Baichoo,
 ---
 
-Supervised learning approaches use a training dataset where the outcome is known, and the relationship between a set of predictors (independent variables, risk factors) and the outcome can be modelled, and then tested on a test set as well as used to predict the outcome where it is not known. Supervised learning can be categorized into classification({{ site.baseurl}}{% link pages/categories/supervised/classification/classification.md %}) or regression({{ site.baseurl}}{% link pages/categories/supervised/regression/regression.md %}). 
+Supervised learning approaches use a training dataset where the outcome is known, and the relationship between a set of predictors (independent variables, risk factors) and the outcome can be modelled, and then tested on a test set as well as used to predict the outcome where it is not known. Supervised learning can be categorized into [classification]({{ site.baseurl}}{% link pages/categories/supervised/classification/classification.md %}) or [regression]({{ site.baseurl}}{% link pages/categories/supervised/regression/regression.md %}). 
